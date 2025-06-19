@@ -1,5 +1,6 @@
 # Milestone
 Forest Fire Fun Simulator - How to Run
+
 This program simulates a forest fire spreading across a grid of terrain using Java and a GUI interface.
 ------------------------
 How to Compile & Run:
